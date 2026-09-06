@@ -1,0 +1,145 @@
+---
+title: "Research"
+toc: true
+toc-title: "On this page"
+toc-depth: 2
+---
+
+::: {.page-intro}
+Research in ergodic theory and smooth dynamical systems, with emphasis on hyperbolic and partially hyperbolic dynamics, entropy, and statistical properties.
+:::
+
+## Funding
+
+::: {.page-feature}
+- **NSF-2418590: Statistical and Topological Structures of Singular Star Flows** — PI, 2024–2027. [Award page](https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2418590&HistoricalAwards=false)
+- **Fulbright Special Project – Jacob Palis Award** — Co-PI, 2026–2028.
+:::
+
+## Preprints
+
+1. **Komuro Expansivity and Periodic Orbit Growth for Multi-Singular Hyperbolic Flows** (with M.J. Pacifico, J. Yang and R. Zheng).  
+   [arXiv](https://arxiv.org/abs/2608.02186).
+
+2. **Margulis Measures on Expanding Foliations: Construction and Rigidity** (with J. Buzzi, Y. Shi and J. Yang).  
+   [arXiv](https://arxiv.org/abs/2607.13556).
+
+3. **An ergodic spectral decomposition theorem for singular star flows** (with M.J. Pacifico and J. Yang).  
+   [arXiv](https://arxiv.org/abs/2506.19989).
+
+## Published papers
+
+4. **An example derived from the Lorenz attractor** (with M. Li, J. Yang and R. Zheng).  
+   *Ergodic Theory and Dynamical Systems*, 46 (2026), 1189–1218.  
+   [Journal](https://doi.org/10.1017/etds.2026.10275) · [arXiv](https://arxiv.org/abs/2302.02098).
+
+5. **An improved Climenhaga-Thompson criterion for locally maximal sets** (with M.J. Pacifico, J. Yang and Gongran Yao).  
+   *Journal of Differential Equations*, 453 (2026), Part 5.  
+   [Journal](https://doi.org/10.1016/j.jde.2025.113921) · [arXiv](https://arxiv.org/abs/2503.23173).
+
+6. **Equilibrium states for the classical Lorenz attractor and sectional-hyperbolic attractors in higher dimensions** (with M.J. Pacifico and J. Yang).  
+   *Duke Math. J.*, 174 (2025) no. 10, 1901–2010.  
+   [Journal](https://doi.org/10.1215/00127094-2024-0067) · [arXiv](https://arxiv.org/abs/2209.10784).
+
+7. **Shub's example revisited** (with C. Liang, R. Saghin and J. Yang).  
+   *Ergodic Theory and Dynamical Systems*, 45 (2025), no. 3, 894–914.  
+   [Journal](https://doi.org/10.1017/etds.2024.63) · [arXiv](https://arxiv.org/abs/2303.17775).
+
+8. **Maximal transverse measures of expanding foliations** (with R. Ures, M. Viana and J. Yang).  
+   *Comm. Math. Phys.*, 405 (2024), no. 5, Paper No. 121, 40 pp.  
+   [Journal](https://doi.org/10.1007/s00220-024-04993-w) · [arXiv](https://arxiv.org/abs/2212.05172).
+
+9. **Thermodynamical u-formalism I: maximal u-entropy measures for maps that factor over Anosov** (with R. Ures, M. Viana and J. Yang).  
+   *Ergodic Theory and Dynamical Systems*, 44 (2024), no. 1, 290–333.  
+   [Journal](https://doi.org/10.1017/etds.2023.8) · [arXiv](https://arxiv.org/abs/2011.02637).
+
+10. **An entropy dichotomy for generic singular star flows** (with M.J. Pacifico and J. Yang).  
+    *Trans. Amer. Math. Soc.*, 376 (2023), 6845–6871.  
+    [Journal](https://doi.org/10.1090/tran/8989) · [arXiv](https://arxiv.org/abs/2101.09480).
+
+11. **Existence and uniqueness of equilibrium states for systems with specification at a fixed scale** (with M.J. Pacifico and J. Yang).  
+    *Nonlinearity*, 35 (2022), Number 12.  
+    [Journal](https://doi.org/10.1088/1361-6544/ac956f) · [arXiv](https://arxiv.org/abs/2201.06568).
+
+12. **A countable partition for singular flows, and its application on the entropy theory** (with Y. Shi and J. Yang).  
+    *Israel J. Math.*, 249 (2022), 375–429.  
+    [Journal](https://doi.org/10.1007/s11856-022-2316-4) · [arXiv](https://arxiv.org/abs/1908.01380).
+
+13. **Escape rate and conditional escape rate from a probabilistic point of view** (with C. Davis and N. Haydn).  
+    *Ann. Henri Poincaré*, 22 (2021), 2195–2225.  
+    [Journal](https://doi.org/10.1007/s00023-021-01070-z) · [arXiv](https://arxiv.org/abs/2006.06112).
+
+14. **Statistical properties of physical-like measures** (with S. Gan, J. Yang and R. Zheng).  
+    *Nonlinearity*, 34 (2021), 1014–1029.  
+    [Journal](https://doi.org/10.1088/1361-6544/abd7c9) · [arXiv](https://arxiv.org/abs/2009.11089).
+
+15. **Rare event process and entry times distribution for arbitrary null sets on compact manifolds.**  
+    *Ann. Inst. Henri Poincaré, Probab. Stat.*, 57 (2021), no. 2, 1103–1135.  
+    [Journal](https://doi.org/10.1214/20-AIHP1109) · [arXiv](https://arxiv.org/abs/1905.09956).
+
+16. **Entropy theory for sectional hyperbolic flows** (with M.J. Pacifico and J. Yang).  
+    *Ann. Inst. Henri Poincaré, Anal. Non Linéaire*, 38 (2021), 1001–1030.  
+    [Journal](https://doi.org/10.1016/j.anihpc.2020.10.001) · [arXiv](https://arxiv.org/abs/1901.07436).
+
+17. **Geometric law for numbers of returns until a hazard under φ-mixing** (with Y. Kifer).  
+    *Israel J. Math.*, 244 (2021), 319–357.  
+    [Journal](https://doi.org/10.1007/s11856-021-2182-5) · [arXiv](https://arxiv.org/abs/1812.09927).
+
+18. **Exponential law for random maps on compact manifolds** (with J. Rousseau and N. Haydn).  
+    *Nonlinearity*, 33 (2020), 6760–6789.  
+    [Journal](https://doi.org/10.1088/1361-6544/aba88a) · [arXiv](https://arxiv.org/abs/1705.05869).
+
+19. **A new criterion of physical measures for partially hyperbolic diffeomorphisms** (with Y. Hua and J. Yang).  
+    *Trans. Amer. Math. Soc.*, 373 (2020), no. 1, 385–417.  
+    [Journal](https://doi.org/10.1090/tran/7920) · [arXiv](https://arxiv.org/abs/1812.03818).
+
+20. **Local escape rate for φ-mixing dynamical systems** (with N. Haydn).  
+    *Ergodic Theory and Dynamical Systems*, 40 (2020), no. 10, 2854–2880.  
+    [Journal](https://doi.org/10.1017/etds.2019.21) · [arXiv](https://arxiv.org/abs/1806.07148).
+
+21. **Hitting times distribution and extreme value laws for semi-flows** (with M.J. Pacifico).  
+    *Discrete Contin. Dyn. Syst. series A*, 37 (2017), no. 11, 5861–5881.  
+    [Journal](https://doi.org/10.3934/dcds.2017255) · [arXiv](https://arxiv.org/abs/1606.09142).
+
+22. **A derivation of the Poisson law for returns of smooth maps with certain geometrical properties** (with N. Haydn).  
+    *Dynamical systems, ergodic theory, and probability: in memory of Kolya Chernov*, 141–160, Contemp. Math., 698, Amer. Math. Soc., Providence, RI, 2017.  
+    [Journal](https://doi.org/10.1090/conm/698/14031) · [arXiv](https://arxiv.org/abs/1602.01923).
+
+23. **Entry times distribution for dynamical balls on metric spaces** (with N. Haydn).  
+    *J. Stat. Phys.*, 167 (2017), no. 2, 297–316.  
+    [Journal](https://doi.org/10.1007/s10955-017-1745-7) · [arXiv](https://arxiv.org/abs/1410.8640).
+
+24. **Entry times distribution for mixing systems** (with N. Haydn).  
+    *J. Stat. Phys.*, 163 (2016), no. 2, 374–392.  
+    [Journal](https://doi.org/10.1007/s10955-016-1487-y) · [arXiv](https://arxiv.org/abs/1412.4197).
+
+## In preparation
+
+1. **Exponential mixing for harmonic measures of transversally conformal foliations** (with S. Alvarez, R. Ures and J. Yang).  
+   For transversally conformal foliations without transverse holonomy-invariant measures, we establish exponential convergence of the leafwise heat diffusion towards the harmonic measure.
+
+2. **A lower bound of entropy for singular hyperbolic chain recurrence classes** (with M. Li, J. Yang and R. Zheng).  
+   In this article, we construct a new example of a robustly nontrivial chain recurrence class that is sectional-hyperbolic but not Lyapunov stable, and show that the example has positive topological entropy, contains periodic orbits, and is C^1 generically a robustly isolated homoclinic class.  
+   The main tool is a lower bound of the topological entropy of a sectional-hyperbolic chain recurrence class by the product of its sectional expansion rate with the lower box-counting dimension along the center-unstable normal direction.
+
+3. **Exponential equidistribution and unique ergodicity for expanding foliations** (with R. Saghin, R. Ures and J. Yang).  
+   In this paper we consider any perturbation of the time-one map of the geodesic flow on a compact surface with negative curvature. It has been established that either there exists a unique measure of maximal entropy (MME) which has zero center exponent, in which case the perturbed map is the time-one map of a topological flow, or there exist two MMEs with positive/negative center exponent, respectively.  
+   We show that in the second case, the unstable foliation has a unique transversal invariant measure (and consequently the horocycle flow is uniquely ergodic), and equidistributes exponentially to the MME with negative center exponent. The same results hold for the stable foliation which equidistributes to the MME with positive exponent.  
+   We propose two conjectures on the strong unstable foliation of Anosov diffeomorphisms on T^3: they are uniquely ergodic, and equidistribute exponentially to the measure of maximal uu-entropy.
+
+4. **A countable partition for singular flows based on filtration structure: construction and application** (with M. Li, J. Yang and R. Zheng).  
+   We construct a countable partition for flows with hyperbolic singularities such that its metric entropy for invariant probability measures is uniformly bounded. As an application, we show the upper semi-continuity of the entropy map for singular flows away from homoclinic tangencies. The construction is based on a filtration structure on the Grassmannian manifold and improves [10] above.
+
+5. **Limiting return times distribution for arbitrary null sets until one encounters an obstacle** (with N. Haydn).  
+   "About the exciting story of the intrepid random traveler and how many times he returned home before being swallowed by a black hole, forever vanishing from the face of the earth."  
+   In this paper we study the number of entries to a neighborhood U ('home') of some measure zero set, before the orbit enters another open set V (a black hole). Assuming that the system has sufficient mixing property, we show that the number of entries converges in distribution to a compound Poisson distribution with an exponentially distributed stopping time.
+
+## Permanent preprints
+
+- **Uniqueness of equilibrium states for Lorenz attractors in any dimension** (with M.J. Pacifico and J. Yang).  
+  This is a research announcement for [6](https://doi.org/10.1215/00127094-2024-0067) above.  
+  [arXiv](https://arxiv.org/abs/2201.06622).
+
+- **Decay of correlations for maximal measure of maps derived from Anosov** (with J. Yang).  
+  This paper has been merged into [8](https://doi.org/10.1007/s00220-024-04993-w) and [9](https://doi.org/10.1017/etds.2023.8) above as an example. In this paper we proved that the unique measure of maximal entropy for any 3-dimensional DA diffeomorphism has exponential decay of correlations.  
+  [arXiv](https://arxiv.org/abs/1610.00796).

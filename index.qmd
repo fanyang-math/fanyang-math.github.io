@@ -1,0 +1,107 @@
+---
+title: "Fan Yang"
+---
+::::: {.home-hero}
+:::: {.home-hero-grid}
+::: {.hero-main}
+### Assistant Professor of Mathematics
+
+[Department of Mathematics](https://math.wfu.edu/)  
+[Wake Forest University](https://www.wfu.edu/)
+
+I work in ergodic theory and smooth dynamical systems, with connections to probability, stochastic processes, and geometry.
+:::
+
+::: {.hero-contact}
+**Contact**
+
+332 Manchester Hall  
+Winston-Salem, NC 27109\
+USA
+
+[yangf@wfu.edu](mailto:yangf@wfu.edu)  
+[fizbanyang@gmail.com](mailto:fizbanyang@gmail.com)
+
+[Curriculum vitae](https://www.dropbox.com/scl/fi/lx8904ivaku64ta4567kk/CV.pdf?rlkey=yzhe9lqyrfjpr1rv62sb2cgor&dl=0)
+:::
+
+::: {.hero-photo}
+![](images/Yang-Fan.jpg){.profile-photo fig-alt="Portrait of Fan Yang"}
+:::
+::::
+:::::
+
+## About me
+I obtained my Ph.D. from the [University of Southern California](https://www.usc.edu/) under the guidance of [Nicolai Haydn](https://dornsife.usc.edu/nicolai-haydn/) in 2015. I had postdoc positions at [IMPA](https://impa.br/) / [UFRJ](https://im.ufrj.br/index.php/pt/) in Brazil, the [University of Oklahoma](https://www.ou.edu/), and [Michigan State University](https://msu.edu/), USA.
+
+## Dynamics at Wake Forest
+
+::: {.activity-card}
+[**Annual Minicourse and Workshop on Smooth Dynamical Systems at Wake Forest University**](https://sites.google.com/wfu.edu/jan-2026-dynamics-workshop-wfu/)
+
+An annual minicourse and workshop on smooth dynamical systems and related topics.
+:::
+
+## Research interests
+
+:::: {.research-grid}
+
+::: {.research-card}
+**Expanding foliations**
+
+Transverse invariant measures, unique ergodicity, and equidistribution.
+:::
+
+::: {.research-card}
+**Smooth ergodic theory**
+
+Flows with singularities.
+:::
+
+::: {.research-card}
+**Partially hyperbolic systems**
+
+Equilibrium measures, large deviations, and decay of correlations.
+:::
+
+::: {.research-card}
+**Limit theorems**
+
+Escape rates, hitting-time statistics, extreme-value distributions, central limit theorems, and related probabilistic phenomena.
+:::
+
+::: {.research-card .research-card-wide}
+**Entropy theory**
+
+Relations with topological structures.
+:::
+
+::::
+
+[See research and publications →](research-and-publications.qmd)
+
+## My students
+
+### Ph.D.
+
+**Connor Davis**, University of Oklahoma, 2017–2020  
+(co-advised with [Alexander Grigo](https://math.ou.edu/~grigo/))  
+Dissertation: *Escape Rate from a Probabilistic Perspective.*
+
+### Master’s
+
+**Gongran Yao**, Wake Forest University, 2023–2025  
+Thesis: *An improved Climenhaga-Thompson criterion for locally maximal sets.*
+
+### Undergraduate
+
+**Current**
+
+- **Daisy Yu**, Wake Forest University, 2025–2027 (expected)
+- **Jimmy Ren**, Wake Forest University, 2026–2027 (expected)
+- **Matthew Thompson**, Wake Forest University, 2026–2027 (expected)
+- **William Wang**, Wake Forest University, 2025–2027 (expected)
+
+**Past**
+
+- **Minxing Liu**, Wake Forest University, 2025–2026

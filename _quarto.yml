@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Fan Yang"
+  search: true
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research-and-publications.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: "https://www.dropbox.com/scl/fi/lx8904ivaku64ta4567kk/CV.pdf?rlkey=yzhe9lqyrfjpr1rv62sb2cgor&dl=0"
+        text: CV
+      - href: about.qmd
+        text: About
+
+format:
+  html:
+    theme: cosmo
+    css: site-20260906.css
+    toc: false
+    anchor-sections: false
+    link-external-newwindow: true

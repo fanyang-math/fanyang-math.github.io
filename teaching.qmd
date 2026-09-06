@@ -1,0 +1,30 @@
+---
+title: "Teaching"
+---
+
+::: {.page-intro}
+Courses taught at Wake Forest University since Fall 2023.
+:::
+
+## Wake Forest University
+
+::: {.teaching-table}
+| Term | Courses |
+|---|---|
+| [**Fall 2026**]{.term-fall} | MTH 311: Introductory Real Analysis<br>MTH 712: Measure Theory |
+| [**Summer 2026**]{.term-summer} | MTH 111: Calculus<br>MTH 205: Introduction to Linear Algebra and Differential Equations |
+| [**Spring 2026**]{.term-spring} | MTH 311: Introductory Real Analysis<br>MTH 711: Real Analysis |
+| [**Summer 2025**]{.term-summer} | MTH 111: Calculus<br>MTH 205: Introduction to Linear Algebra and Differential Equations |
+| [**Spring 2025**]{.term-spring} | MTH 311: Introductory Real Analysis<br>MTH 354: Discrete Dynamical Systems |
+| [**Fall 2024**]{.term-fall} | MTH 712: Measure Theory<br>MTH 254: Optimization Theory |
+| [**Summer 2024**]{.term-summer} | MTH 111: Calculus |
+| [**Spring 2024**]{.term-spring} | MTH 357: Probability<br>MTH 354: Discrete Dynamical Systems |
+| [**Fall 2023**]{.term-fall} | MTH 113: Multivariable Calculus |
+:::
+
+## Wake Forest teaching resources
+
+::: {.page-feature .compact-feature}
+- [Math and Stats Center](https://mathandstatscenter.wfu.edu/)
+- [Canvas](https://canvas.wfu.edu/)
+:::
