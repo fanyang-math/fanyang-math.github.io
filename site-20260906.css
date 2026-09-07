@@ -1,0 +1,343 @@
+body {
+  font-size: 1.02rem;
+  line-height: 1.62;
+}
+
+.navbar-brand {
+  font-weight: 600;
+}
+
+h1 {
+  font-weight: 600;
+}
+
+h2 {
+  margin-top: 2.3rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 1px solid var(--bs-border-color);
+}
+
+h3 {
+  margin-top: 1.4rem;
+}
+
+
+.activity-card {
+  padding: 1rem 1.15rem;
+  border: 1px solid var(--bs-border-color);
+  border-radius: 0.45rem;
+  background: var(--bs-tertiary-bg);
+}
+
+.activity-card p:last-child {
+  margin-bottom: 0;
+}
+
+ol > li {
+  margin-bottom: 1rem;
+}
+
+/* Give the publication list enough vertical separation without making it airy. */
+#published-papers + ol > li,
+#preprints + ol > li {
+  margin-bottom: 1.05rem;
+}
+
+/* Tables on the Teaching page should remain readable on narrow screens. */
+table {
+  width: 100%;
+}
+
+
+
+/* Keep the site content centered, but let the top navigation use the page width
+   instead of looking centered inside the article column. */
+.navbar .navbar-container,
+.navbar .container-fluid {
+  max-width: none !important;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+
+.navbar .navbar-container {
+  padding-left: 1.1rem;
+  padding-right: 1.1rem;
+}
+
+.profile-photo {
+  display: block;
+  width: min(100%, 235px);
+  height: auto;
+  margin: 0 0 1rem auto;
+  border-radius: 0.35rem;
+}
+
+@media (max-width: 768px) {
+  .profile-photo {
+    margin-left: 0;
+    width: min(70%, 235px);
+  }
+}
+
+/* ---------- Home-page visual layer ---------- */
+
+/* Slightly soften the all-white page without making it look like a "designed" landing page. */
+body {
+  background-color: #f8f9fa;
+}
+
+
+/* The Wake activity keeps a slightly stronger accent. */
+.activity-card {
+  border-left: 4px solid #71879a;
+  background-color: #f3f6f8;
+}
+
+/* Two-column research-interest cards on desktop. */
+.research-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.9rem;
+  margin: 1rem 0 0.9rem 0;
+}
+
+.research-card {
+  background-color: #f3f5f7;
+  border: 1px solid #e0e5e9;
+  border-radius: 0.55rem;
+  padding: 0.95rem 1.05rem;
+}
+
+.research-card p {
+  margin-bottom: 0;
+}
+
+.research-card p:first-child {
+  margin-bottom: 0.28rem;
+}
+
+.research-card-wide {
+  grid-column: 1 / -1;
+}
+
+/* Keep the reading column itself transparent so the very light page tint shows through. */
+#quarto-content {
+  background: transparent;
+}
+
+@media (max-width: 768px) {
+  .research-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .research-card-wide {
+    grid-column: auto;
+  }
+}
+
+
+
+
+/* ---------- Research / Teaching page visual layer ---------- */
+
+.page-intro {
+  background-color: #f1f4f6;
+  border: 1px solid #e1e6ea;
+  border-radius: 0.65rem;
+  padding: 1rem 1.2rem;
+  margin: 0.35rem 0 1.8rem 0;
+  font-size: 1.04rem;
+}
+
+.page-intro p {
+  margin: 0;
+}
+
+.page-feature {
+  background-color: #f4f6f8;
+  border-left: 4px solid #71879a;
+  border-radius: 0.25rem 0.55rem 0.55rem 0.25rem;
+  padding: 0.9rem 1.05rem;
+  margin: 0.75rem 0 1.6rem 0;
+}
+
+.page-feature ul {
+  margin-bottom: 0;
+}
+
+.compact-feature {
+  max-width: 42rem;
+}
+
+.teaching-table {
+  margin: 0.75rem 0 1.8rem 0;
+}
+
+.teaching-table table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  overflow: hidden;
+  border: 1px solid #dfe4e8;
+  border-radius: 0.55rem;
+  background-color: #ffffff;
+}
+
+.teaching-table thead th {
+  background-color: #e9eef2;
+  border-bottom: 1px solid #d7dee4;
+  font-weight: 650;
+}
+
+.teaching-table th,
+.teaching-table td {
+  padding: 0.72rem 0.85rem;
+  vertical-align: top;
+}
+
+
+.teaching-table tbody tr:last-child td {
+  border-bottom: 0;
+}
+
+@media (max-width: 768px) {
+  .page-intro,
+  .page-feature {
+    padding: 0.85rem 0.95rem;
+  }
+
+  .teaching-table th,
+  .teaching-table td {
+    padding: 0.62rem 0.7rem;
+  }
+}
+
+
+/* Semester color coding: subtle enough to preserve an academic look. */
+.teaching-table tbody tr:has(.term-spring) td {
+  background-color: #eef6f1;
+}
+
+.teaching-table tbody tr:has(.term-fall) td {
+  background-color: #eef4fa;
+}
+
+.teaching-table tbody tr:has(.term-summer) td {
+  background-color: #faf3e8;
+}
+
+.term-spring,
+.term-fall,
+.term-summer {
+  white-space: nowrap;
+}
+
+/* Teaching table proportions: keep the Term column compact and give course names room. */
+.teaching-table th:first-child,
+.teaching-table td:first-child {
+  width: 16%;
+  white-space: nowrap;
+}
+
+.teaching-table th:nth-child(2),
+.teaching-table td:nth-child(2) {
+  width: 84%;
+}
+
+@media (min-width: 900px) {
+  .teaching-table td:nth-child(2) {
+    white-space: nowrap;
+  }
+}
+
+@media (max-width: 899px) {
+  .teaching-table td:nth-child(2) {
+    white-space: normal;
+  }
+}
+
+/* ---------- Home hero: custom CSS grid ---------- */
+/* Avoid Quarto's .columns layout here. A native CSS grid is stable on
+   reload/back-forward navigation and lets the tinted block size to content. */
+.home-hero {
+  background-color: #f1f4f6;
+  border: 1px solid #e1e6ea;
+  border-radius: 0.7rem;
+  padding: 1.15rem 1.35rem 1.05rem 1.35rem;
+  margin: 0.15rem 0 2rem 0;
+
+  display: flow-root;
+  min-height: 335px;
+}
+
+.home-hero-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 42fr) minmax(0, 29fr) minmax(0, 30fr);
+  column-gap: 2rem;
+  align-items: start;
+}
+
+.home-hero h3 {
+  margin-top: 0;
+  font-size: 1.35rem;
+  font-weight: 500;
+}
+
+.hero-main,
+.hero-contact,
+.hero-photo {
+  min-width: 0;
+}
+
+.hero-photo {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-start;
+}
+
+.hero-photo .profile-photo,
+.hero-photo img.profile-photo {
+  display: block;
+  width: 100%;
+  max-width: 260px;
+  height: auto;
+  margin: 0;
+  border-radius: 0.35rem;
+}
+
+/* Collapse gracefully on narrower screens. */
+@media (max-width: 900px) {
+  .home-hero-grid {
+    grid-template-columns: 1fr 1fr;
+    row-gap: 1.25rem;
+  }
+
+  .hero-photo {
+    grid-column: 2;
+    grid-row: 1 / span 2;
+  }
+}
+
+@media (max-width: 650px) {
+  .home-hero {
+    padding: 1rem;
+    min-height: 0;
+
+  }
+
+  .home-hero-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .hero-photo {
+    grid-column: auto;
+    grid-row: auto;
+    justify-content: flex-start;
+  }
+
+  .hero-photo .profile-photo,
+  .hero-photo img.profile-photo {
+    max-width: 235px;
+  }
+}
+
