@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Fan Yang"
+  site-url: "https://fanyang-math.github.io"
   search: true
   navbar:
     left:
