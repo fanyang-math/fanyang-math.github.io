@@ -35,4 +35,4 @@ The central principle is simple: **use AI to create more mathematics that you ca
 
 ## Attribution
 
-This note is based on [Abbey Bourdon](https://users.wfu.edu/bourdoam/)'s original document, which was adapted from [Pavel Etingof](https://math.mit.edu/~etingof/)’s “[Use of AI in mathematical research: A guide for young mathematicians](https://math.mit.edu/~etingof/aiuse.pdf).” The PDF was created with the help of ChatGPT 6 Pro and contains the full references and source acknowledgments.
+This note is loosely based on [Abbey Bourdon](https://users.wfu.edu/bourdoam/)'s original document, which was adapted from [Pavel Etingof](https://math.mit.edu/~etingof/)’s “[Use of AI in mathematical research: A guide for young mathematicians](https://math.mit.edu/~etingof/aiuse.pdf).” The PDF was created with the help of ChatGPT 6 Pro and contains the full references and source acknowledgments.
