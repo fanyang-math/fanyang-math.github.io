@@ -5,7 +5,13 @@ title: "Teaching"
 ::: {.page-intro}
 Courses taught at Wake Forest University since Fall 2023.
 :::
+## Teaching resources
 
+::: {.page-feature .compact-feature}
+**[Using Generative AI to Learn Mathematics](ai-for-mathematics.html)**  
+A student-facing guide to responsible and effective use of generative AI in mathematics: verification, prompting, problem-solving, reading proofs, making connections, and learning related topics beyond the syllabus.  
+[Download the PDF](ai-for-mathematics.pdf)
+:::
 ## Wake Forest University
 
 ::: {.teaching-table}
@@ -22,7 +28,9 @@ Courses taught at Wake Forest University since Fall 2023.
 | [**Fall 2023**]{.term-fall} | MTH 113: Multivariable Calculus |
 :::
 
-## Wake Forest teaching resources
+
+
+## Wake Forest resources
 
 ::: {.page-feature .compact-feature}
 - [Math and Stats Center](https://mathandstatscenter.wfu.edu/)

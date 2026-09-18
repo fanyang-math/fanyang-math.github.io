@@ -1,0 +1,38 @@
+---
+title: "Using Generative AI to Learn Mathematics"
+description: "A student guide to responsible and effective use of generative AI in mathematics."
+---
+
+::: {.page-intro}
+A student guide to using generative AI as a tool for learning mathematics---without outsourcing the mathematics itself.
+:::
+
+::: {.page-feature .compact-feature}
+**[Download the current PDF](ai-for-mathematics.pdf)**  
+Discussion draft, September 2026  
+Questions or comments: [yangf@wfu.edu](mailto:yangf@wfu.edu)
+:::
+
+## About this guide
+
+Generative AI can be useful for much more than producing answers. Used carefully, it can help you unpack a difficult definition, diagnose a misunderstanding, get a limited hint, understand the architecture of a proof, connect ideas across subjects, or begin learning a related topic that your course has not reached.
+
+The guide has two parts:
+
+- **Part I: Do's, Don'ts, and Responsibilities.** Suggested boundaries for coursework, including verification, disclosure, and responsibility for submitted work.
+- **Part II: Learn Mathematics with AI.** Practical strategies for giving mathematical context, asking neutral questions, checking AI output, working with definitions and proofs, exploring connections, and learning new topics.
+
+The central principle is simple: **use AI to create more mathematics that you can understand and do yourself, not more mathematics that merely appears on the screen.**
+
+## A few themes
+
+- Give the AI your relevant mathematical background and, when appropriate, what has been covered in your course.
+- Ask for an assessment rather than building your preferred answer into the prompt.
+- Verify mathematical claims, examples, and references; confidence is not evidence.
+- For assigned problem-solving, request limited help only within the rules of the course and take the problem back after a hint.
+- Use AI to identify structure: how definitions, examples, theorems, proof strategies, and neighboring subjects fit together.
+- When exploring a new topic, start from something you know, set a concrete goal, and check the AI's roadmap against a real mathematical source.
+
+## Attribution
+
+This note is based on [Abbey Bourdon](https://users.wfu.edu/bourdoam/)'s original document, which was adapted from [Pavel Etingof](https://math.mit.edu/~etingof/)’s “[Use of AI in mathematical research: A guide for young mathematicians](https://math.mit.edu/~etingof/aiuse.pdf).” The PDF was created with the help of ChatGPT 6 Pro and contains the full references and source acknowledgments.
