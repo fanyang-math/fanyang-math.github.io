@@ -1,68 +1,5 @@
 [
   {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "Courses taught at Wake Forest University since Fall 2023."
-  },
-  {
-    "objectID": "teaching.html#teaching-resources",
-    "href": "teaching.html#teaching-resources",
-    "title": "Teaching",
-    "section": "Teaching resources",
-    "text": "Teaching resources\n\nUsing Generative AI to Learn Mathematics\nA student-facing guide to responsible and effective use of generative AI in mathematics: verification, prompting, problem-solving, reading proofs, making connections, and learning related topics beyond the syllabus.\nDownload the PDF"
-  },
-  {
-    "objectID": "teaching.html#wake-forest-university",
-    "href": "teaching.html#wake-forest-university",
-    "title": "Teaching",
-    "section": "Wake Forest University",
-    "text": "Wake Forest University\n\n\n\n\n\n\n\n\nTerm\nCourses\n\n\n\n\nFall 2026\nMTH 311: Introductory Real AnalysisMTH 712: Measure Theory\n\n\nSummer 2026\nMTH 111: CalculusMTH 205: Introduction to Linear Algebra and Differential Equations\n\n\nSpring 2026\nMTH 311: Introductory Real AnalysisMTH 711: Real Analysis\n\n\nSummer 2025\nMTH 111: CalculusMTH 205: Introduction to Linear Algebra and Differential Equations\n\n\nSpring 2025\nMTH 311: Introductory Real AnalysisMTH 354: Discrete Dynamical Systems\n\n\nFall 2024\nMTH 712: Measure TheoryMTH 254: Optimization Theory\n\n\nSummer 2024\nMTH 111: Calculus\n\n\nSpring 2024\nMTH 357: ProbabilityMTH 354: Discrete Dynamical Systems\n\n\nFall 2023\nMTH 113: Multivariable Calculus"
-  },
-  {
-    "objectID": "teaching.html#wake-forest-resources",
-    "href": "teaching.html#wake-forest-resources",
-    "title": "Teaching",
-    "section": "Wake Forest resources",
-    "text": "Wake Forest resources\n\n\nMath and Stats Center\nCanvas"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Fan Yang",
-    "section": "",
-    "text": "Department of Mathematics\nWake Forest University\nI work in ergodic theory and smooth dynamical systems, with connections to probability, stochastic processes, and geometry.\n\n\nContact\n332 Manchester Hall\nWinston-Salem, NC 27109\nUSA\nyangf@wfu.edu\nfizbanyang@gmail.com\nCurriculum vitae"
-  },
-  {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "Fan Yang",
-    "section": "About me",
-    "text": "About me\nI obtained my Ph.D. from the University of Southern California under the guidance of Nicolai Haydn in 2015. I had postdoc positions at IMPA / UFRJ in Brazil, the University of Oklahoma, and Michigan State University, USA."
-  },
-  {
-    "objectID": "index.html#dynamics-at-wake-forest",
-    "href": "index.html#dynamics-at-wake-forest",
-    "title": "Fan Yang",
-    "section": "Dynamics at Wake Forest",
-    "text": "Dynamics at Wake Forest\n\nAnnual Minicourse and Workshop on Smooth Dynamical Systems at Wake Forest University\nAn annual minicourse and workshop on smooth dynamical systems and related topics."
-  },
-  {
-    "objectID": "index.html#research-interests",
-    "href": "index.html#research-interests",
-    "title": "Fan Yang",
-    "section": "Research interests",
-    "text": "Research interests\n\n\nExpanding foliations\nTransverse invariant measures, unique ergodicity, and equidistribution.\n\n\nSmooth ergodic theory\nFlows with singularities.\n\n\nPartially hyperbolic systems\nEquilibrium measures, large deviations, and decay of correlations.\n\n\nLimit theorems\nEscape rates, hitting-time statistics, extreme-value distributions, central limit theorems, and related probabilistic phenomena.\n\n\nEntropy theory\nRelations with topological structures.\n\n\nSee research and publications →"
-  },
-  {
-    "objectID": "index.html#my-students",
-    "href": "index.html#my-students",
-    "title": "Fan Yang",
-    "section": "My students",
-    "text": "My students\n\nPh.D.\nConnor Davis, University of Oklahoma, 2017–2020\n(co-advised with Alexander Grigo)\nDissertation: Escape Rate from a Probabilistic Perspective.\n\n\nMaster’s\nGongran Yao, Wake Forest University, 2023–2025\nThesis: An improved Climenhaga-Thompson criterion for locally maximal sets.\n\n\nUndergraduate\nCurrent\n\nDaisy Yu, Wake Forest University, 2025–2027 (expected)\nJimmy Ren, Wake Forest University, 2026–2027 (expected)\nMatthew Thompson, Wake Forest University, 2026–2027 (expected)\nWilliam Wang, Wake Forest University, 2025–2027 (expected)\n\nPast\n\nMinxing Liu, Wake Forest University, 2025–2026"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -75,34 +12,6 @@
     "title": "About",
     "section": "",
     "text": "I have been practicing Kendo (剣道, a traditional Japanese martial art, meaning “the way of the sword”) for over 15 years and am currently third dan (三段). I am a member of the All United States Kendo Federation (AUSKF). I am also a certified referee for the International Kendo Federation (FIK).\nMy sensei (instructor) is Fumihide Itokazu, a member of Team USA for the 12th and 13th World Kendo Championships. Here is a video from the 13th WKC, when USA defeated Japan in the semifinal (and unfortunately lost to Korea in the final)."
-  },
-  {
-    "objectID": "ai-for-mathematics.html",
-    "href": "ai-for-mathematics.html",
-    "title": "Using Generative AI to Learn Mathematics",
-    "section": "",
-    "text": "A student guide to using generative AI as a tool for learning mathematics—without outsourcing the mathematics itself."
-  },
-  {
-    "objectID": "ai-for-mathematics.html#about-this-guide",
-    "href": "ai-for-mathematics.html#about-this-guide",
-    "title": "Using Generative AI to Learn Mathematics",
-    "section": "About this guide",
-    "text": "About this guide\nGenerative AI can be useful for much more than producing answers. Used carefully, it can help you unpack a difficult definition, diagnose a misunderstanding, get a limited hint, understand the architecture of a proof, connect ideas across subjects, or begin learning a related topic that your course has not reached.\nThe guide has two parts:\n\nPart I: Do’s, Don’ts, and Responsibilities. Suggested boundaries for coursework, including verification, disclosure, and responsibility for submitted work.\nPart II: Learn Mathematics with AI. Practical strategies for giving mathematical context, asking neutral questions, checking AI output, working with definitions and proofs, exploring connections, and learning new topics.\n\nThe central principle is simple: use AI to create more mathematics that you can understand and do yourself, not more mathematics that merely appears on the screen."
-  },
-  {
-    "objectID": "ai-for-mathematics.html#a-few-themes",
-    "href": "ai-for-mathematics.html#a-few-themes",
-    "title": "Using Generative AI to Learn Mathematics",
-    "section": "A few themes",
-    "text": "A few themes\n\nGive the AI your relevant mathematical background and, when appropriate, what has been covered in your course.\nAsk for an assessment rather than building your preferred answer into the prompt.\nVerify mathematical claims, examples, and references; confidence is not evidence.\nFor assigned problem-solving, request limited help only within the rules of the course and take the problem back after a hint.\nUse AI to identify structure: how definitions, examples, theorems, proof strategies, and neighboring subjects fit together.\nWhen exploring a new topic, start from something you know, set a concrete goal, and check the AI’s roadmap against a real mathematical source."
-  },
-  {
-    "objectID": "ai-for-mathematics.html#attribution",
-    "href": "ai-for-mathematics.html#attribution",
-    "title": "Using Generative AI to Learn Mathematics",
-    "section": "Attribution",
-    "text": "Attribution\nThis note is based on Abbey Bourdon’s original document, which was adapted from Pavel Etingof’s “Use of AI in mathematical research: A guide for young mathematicians.” The PDF was created with the help of ChatGPT 6 Pro and contains the full references and source acknowledgments."
   },
   {
     "objectID": "research-and-publications.html",
@@ -145,5 +54,96 @@
     "title": "Research",
     "section": "Permanent preprints",
     "text": "Permanent preprints\n\nUniqueness of equilibrium states for Lorenz attractors in any dimension (with M.J. Pacifico and J. Yang).\nThis is a research announcement for 6 above.\narXiv.\nDecay of correlations for maximal measure of maps derived from Anosov (with J. Yang).\nThis paper has been merged into 8 and 9 above as an example. In this paper we proved that the unique measure of maximal entropy for any 3-dimensional DA diffeomorphism has exponential decay of correlations.\narXiv."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Courses taught at Wake Forest University since Fall 2023."
+  },
+  {
+    "objectID": "teaching.html#teaching-resources",
+    "href": "teaching.html#teaching-resources",
+    "title": "Teaching",
+    "section": "Teaching resources",
+    "text": "Teaching resources\n\nUsing Generative AI to Learn Mathematics\nA student-facing guide to responsible and effective use of generative AI in mathematics: verification, prompting, problem-solving, reading proofs, making connections, and learning related topics beyond the syllabus.\nDownload the PDF"
+  },
+  {
+    "objectID": "teaching.html#wake-forest-university",
+    "href": "teaching.html#wake-forest-university",
+    "title": "Teaching",
+    "section": "Wake Forest University",
+    "text": "Wake Forest University\n\n\n\n\n\n\n\n\nTerm\nCourses\n\n\n\n\nFall 2026\nMTH 311: Introductory Real AnalysisMTH 712: Measure Theory\n\n\nSummer 2026\nMTH 111: CalculusMTH 205: Introduction to Linear Algebra and Differential Equations\n\n\nSpring 2026\nMTH 311: Introductory Real AnalysisMTH 711: Real Analysis\n\n\nSummer 2025\nMTH 111: CalculusMTH 205: Introduction to Linear Algebra and Differential Equations\n\n\nSpring 2025\nMTH 311: Introductory Real AnalysisMTH 354: Discrete Dynamical Systems\n\n\nFall 2024\nMTH 712: Measure TheoryMTH 254: Optimization Theory\n\n\nSummer 2024\nMTH 111: Calculus\n\n\nSpring 2024\nMTH 357: ProbabilityMTH 354: Discrete Dynamical Systems\n\n\nFall 2023\nMTH 113: Multivariable Calculus"
+  },
+  {
+    "objectID": "teaching.html#wake-forest-resources",
+    "href": "teaching.html#wake-forest-resources",
+    "title": "Teaching",
+    "section": "Wake Forest resources",
+    "text": "Wake Forest resources\n\n\nMath and Stats Center\nCanvas"
+  },
+  {
+    "objectID": "ai-for-mathematics.html",
+    "href": "ai-for-mathematics.html",
+    "title": "Using Generative AI to Learn Mathematics",
+    "section": "",
+    "text": "A student guide to using generative AI as a tool for learning mathematics—without outsourcing the mathematics itself."
+  },
+  {
+    "objectID": "ai-for-mathematics.html#about-this-guide",
+    "href": "ai-for-mathematics.html#about-this-guide",
+    "title": "Using Generative AI to Learn Mathematics",
+    "section": "About this guide",
+    "text": "About this guide\nGenerative AI can be useful for much more than producing answers. Used carefully, it can help you unpack a difficult definition, diagnose a misunderstanding, get a limited hint, understand the architecture of a proof, connect ideas across subjects, or begin learning a related topic that your course has not reached.\nThe guide has two parts:\n\nPart I: Do’s, Don’ts, and Responsibilities. Suggested boundaries for coursework, including verification, disclosure, and responsibility for submitted work.\nPart II: Learn Mathematics with AI. Practical strategies for giving mathematical context, asking neutral questions, checking AI output, working with definitions and proofs, exploring connections, and learning new topics.\n\nThe central principle is simple: use AI to create more mathematics that you can understand and do yourself, not more mathematics that merely appears on the screen."
+  },
+  {
+    "objectID": "ai-for-mathematics.html#a-few-themes",
+    "href": "ai-for-mathematics.html#a-few-themes",
+    "title": "Using Generative AI to Learn Mathematics",
+    "section": "A few themes",
+    "text": "A few themes\n\nGive the AI your relevant mathematical background and, when appropriate, what has been covered in your course.\nAsk for an assessment rather than building your preferred answer into the prompt.\nVerify mathematical claims, examples, and references; confidence is not evidence.\nFor assigned problem-solving, request limited help only within the rules of the course and take the problem back after a hint.\nUse AI to identify structure: how definitions, examples, theorems, proof strategies, and neighboring subjects fit together.\nWhen exploring a new topic, start from something you know, set a concrete goal, and check the AI’s roadmap against a real mathematical source."
+  },
+  {
+    "objectID": "ai-for-mathematics.html#attribution",
+    "href": "ai-for-mathematics.html#attribution",
+    "title": "Using Generative AI to Learn Mathematics",
+    "section": "Attribution",
+    "text": "Attribution\nThis note is loosely based on Abbey Bourdon’s original document, which was adapted from Pavel Etingof’s “Use of AI in mathematical research: A guide for young mathematicians.” The PDF was created with the help of ChatGPT 6 Pro and contains the full references and source acknowledgments."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Fan Yang",
+    "section": "",
+    "text": "Department of Mathematics\nWake Forest University\nI work in ergodic theory and smooth dynamical systems, with connections to probability, stochastic processes, and geometry.\n\n\nContact\n332 Manchester Hall\nWinston-Salem, NC 27109\nUSA\nyangf@wfu.edu\nfizbanyang@gmail.com\nCurriculum vitae"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Fan Yang",
+    "section": "About me",
+    "text": "About me\nI obtained my Ph.D. from the University of Southern California under the guidance of Nicolai Haydn in 2015. I had postdoc positions at IMPA / UFRJ in Brazil, the University of Oklahoma, and Michigan State University, USA."
+  },
+  {
+    "objectID": "index.html#dynamics-at-wake-forest",
+    "href": "index.html#dynamics-at-wake-forest",
+    "title": "Fan Yang",
+    "section": "Dynamics at Wake Forest",
+    "text": "Dynamics at Wake Forest\n\nAnnual Minicourse and Workshop on Smooth Dynamical Systems at Wake Forest University\nAn annual minicourse and workshop on smooth dynamical systems and related topics."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Fan Yang",
+    "section": "Research interests",
+    "text": "Research interests\n\n\nExpanding foliations\nTransverse invariant measures, unique ergodicity, and equidistribution.\n\n\nSmooth ergodic theory\nFlows with singularities.\n\n\nPartially hyperbolic systems\nEquilibrium measures, large deviations, and decay of correlations.\n\n\nLimit theorems\nEscape rates, hitting-time statistics, extreme-value distributions, central limit theorems, and related probabilistic phenomena.\n\n\nEntropy theory\nRelations with topological structures.\n\n\nSee research and publications →"
+  },
+  {
+    "objectID": "index.html#my-students",
+    "href": "index.html#my-students",
+    "title": "Fan Yang",
+    "section": "My students",
+    "text": "My students\n\nPh.D.\nConnor Davis, University of Oklahoma, 2017–2020\n(co-advised with Alexander Grigo)\nDissertation: Escape Rate from a Probabilistic Perspective.\n\n\nMaster’s\nGongran Yao, Wake Forest University, 2023–2025\nThesis: An improved Climenhaga-Thompson criterion for locally maximal sets.\n\n\nUndergraduate\nCurrent\n\nDaisy Yu, Wake Forest University, 2025–2027 (expected)\nJimmy Ren, Wake Forest University, 2026–2027 (expected)\nMatthew Thompson, Wake Forest University, 2026–2027 (expected)\nWilliam Wang, Wake Forest University, 2025–2027 (expected)\n\nPast\n\nMinxing Liu, Wake Forest University, 2025–2026"
   }
 ]
